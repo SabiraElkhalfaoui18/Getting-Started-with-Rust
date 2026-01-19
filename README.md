@@ -58,11 +58,5 @@ https://sabiraelkhalfaou.gumroad.com/l/getting-started-with-rust
 1. Install Rust: https://www.rust-lang.org/tools/install
 2. Clone this repository:
 
-## 🛒 Get the Full Tutorial (PDF)
-
-The complete **step-by-step PDF tutorial** is available on Gumroad:
-
-👉 https://sabiraelkhalfaou.gumroad.com/l/getting-started-with-rust
-
    ```bash
    git clone https://github.com/YOUR-USERNAME/Getting-Started-with-Rust.git
